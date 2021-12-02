@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/fonts/media/videos/advanced_tex_fonts/480p15/partial_movie_files/TexFontTemplateManual/3163782288_3695110990_410409868.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/fonts/media/videos/advanced_tex_fonts/480p15/partial_movie_files/TexFontTemplateManual/2201830969_1541766030_933095225.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/fonts/media/videos/advanced_tex_fonts/480p15/partial_movie_files/TexFontTemplateManual/2201830969_2839631542_2720713678.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/fonts/media/videos/advanced_tex_fonts/480p15/partial_movie_files/TexFontTemplateManual/2201830969_2942287498_207145566.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/fonts/media/videos/advanced_tex_fonts/480p15/partial_movie_files/TexFontTemplateManual/2201830969_2559461702_57258346.mp4'

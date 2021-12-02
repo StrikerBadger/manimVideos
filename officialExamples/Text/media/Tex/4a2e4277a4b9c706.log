@@ -1,0 +1,264 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.12.2)  2 DEC 2021 20:07
+entering extended mode
+**./media/Tex/4a2e4277a4b9c706.tex
+(media/Tex/4a2e4277a4b9c706.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/standalone\stan
+dalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.
+sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluate
+x.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval
+.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyv
+al.tex
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvut
+ils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyva
+l.tex))
+\XKV@depth=\count178
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count179
+\c@sapage=\count180
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/standalone\stan
+dalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/preview\preview
+.sty
+Package: preview 2017/04/24 12.3 (AUCTeX/preview-latex)
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/luatex85\luatex
+85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/preview\prtight
+page.def
+\PreviewBorder=\dimen139
+)
+\pr@snippet=\count189
+\pr@box=\box50
+\pr@output=\toks18
+))
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen140
+\l@unhyphenated=\language79
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel
+.def
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\e
+nglish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip16
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks20
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontsp
+ec.sty
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpar
+se\xparse.sty
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.
+sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-xetex.def
+File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+()
+\c__kernel_sys_dvipdfmx_version_int=\count270
+\l__color_backend_stack_int=\count271
+\g__color_backend_stack_int=\count272
+\g__graphics_track_int=\count273
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count274
+\g__pdf_backend_annotation_int=\count275
+\g__pdf_backend_link_int=\count276
+))
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontsp
+ec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count277
+\l__fontspec_language_int=\count278
+\l__fontspec_strnum_int=\count279
+\l__fontspec_tmp_int=\count280
+\l__fontspec_tmpa_int=\count281
+\l__fontspec_tmpb_int=\count282
+\l__fontspec_tmpc_int=\count283
+\l__fontspec_em_int=\count284
+\l__fontspec_emdef_int=\count285
+\l__fontspec_strong_int=\count286
+\l__fontspec_strongdef_int=\count287
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\StrikerBadger\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontsp
+ec.cfg)))
+
+! Package fontspec Error: The font "Baskerville" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \usepackage
+                [defaultmathsizes,italic]{mathastext} 
+Here is how much of TeX's memory you used:
+ 5409 strings out of 411295
+ 129144 string characters out of 2830209
+ 486873 words of memory out of 3000000
+ 25814 multiletter control sequences out of 15000+600000
+ 403446 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,0n,81p,293b,116s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.

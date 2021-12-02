@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/3163782288_2652395533_528311584.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3493041802_1161061928.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_2478287353_58310050.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3493041802_3890978528.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3540724224_2111290781.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3493041802_1202308181.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_1465055301_4151387581.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3493041802_3023032153.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_1264988558_979880991.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/officialExamples/miscellaneous/media/videos/basic/480p15/partial_movie_files/OpeningManim/2201830969_3493041802_2544995186.mp4'
