@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/justFun/media/videos/br/1080p60/partial_movie_files/BrIntro/450974505_1715010666_2896910636.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/justFun/media/videos/br/1080p60/partial_movie_files/BrIntro/34786186_3233087817_3682661235.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/justFun/media/videos/br/1080p60/partial_movie_files/BrIntro/34786186_707580623_3670480118.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/justFun/media/videos/br/1080p60/partial_movie_files/BrIntro/34786186_3422167888_1246331260.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/justFun/media/videos/br/1080p60/partial_movie_files/BrIntro/34786186_1904887897_1388044045.mp4'
