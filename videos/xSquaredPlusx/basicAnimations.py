@@ -18,3 +18,76 @@ class Intro(Scene):
             FadeOut(title),
             Transform(formula, solved_formula)
         )
+
+
+class Idea(Scene):
+    def construct(self):
+        solved_formula = MathTex(r"x^2 + x = x \cdot (x+1)", font_size=121).shift(UP)
+        self.add(solved_formula)
+        solved_formula_bracket = MathTex(r"\underbrace{x^2 + x}_{x \cdot x + 1 \cdot x} = x \cdot (x+1)", font_size=121)
+        solved_formula_bracket.align_to(solved_formula, UP)
+        solved_formula_bracket.align_to(solved_formula, RIGHT)
+        self.play(
+            FadeIn(solved_formula_bracket)
+        )
+        self.remove(solved_formula)
+        self.wait()
+        leftside = MathTex(r"x \cdot x + 1 \cdot x", font_size=121)
+        leftside_col = MathTex(r"x \cdot x + 1 \cdot x", font_size=121, substrings_to_isolate="x")
+        leftside_col.set_color_by_tex("x", YELLOW)
+        self.play(Transform(solved_formula_bracket, leftside))
+        self.play(FadeOut(leftside),
+                  FadeIn(leftside_col))
+        self.wait()
+
+
+class Testing(Scene):
+    def construct(self):
+        factorized = MathTex(r"x \cdot x + 1 \cdot x = x \cdot (x+1)", font_size=121, substrings_to_isolate="x")
+        factorized.set_color_by_tex("x", YELLOW)
+        self.add(factorized)
+        for fucker in factorized:
+            self.play(fucker.animate.shift(UP))
+
+
+class Factoring(Scene):
+    def construct(self):
+        leftside_col = MathTex(r"x \cdot x + 1 \cdot x", font_size=121, substrings_to_isolate="x")
+        leftside_col.set_color_by_tex("x", YELLOW)
+        factorized = MathTex(r"x \cdot x + 1 \cdot x = x \cdot (x+1)", font_size=121, substrings_to_isolate="x")
+        factorized.set_color_by_tex("x", YELLOW)
+        factorized.to_edge(LEFT)
+        self.play(
+            leftside_col.animate.to_edge(LEFT)
+        )
+        self.play(
+            leftside_col[2].animate.shift(UP),
+            leftside_col[-1].animate.shift(UP),
+            *[
+                Write(tex)
+                for tex in (factorized[5], factorized[7:len(factorized)])
+            ]
+        )
+        factorized[6].shift(UP)
+        self.play(
+            FadeIn(factorized[6]),
+            FadeOut(leftside_col[2], target_position=factorized[6]),
+            FadeOut(leftside_col[-1], target_position=factorized[6]),
+
+        )
+        self.play(
+            factorized[6].animate.shift(DOWN),
+        )
+        self.wait(0.5)
+        endformula = MathTex(r"x \cdot (x+1)", font_size=121)
+        self.play(*[
+                FadeOut(tex)
+                for tex in (factorized[5], leftside_col[0:2], leftside_col[3])
+            ])
+        self.play(
+            *[
+                Transform(tex, endformula)
+                for tex in factorized[6:len(factorized)]
+            ]
+        )
+        self.wait()

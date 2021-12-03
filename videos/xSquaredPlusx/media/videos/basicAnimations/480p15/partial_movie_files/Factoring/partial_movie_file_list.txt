@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/3163782288_3832870418_1469999426.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_987321836_1044137241.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_2533441378_1365481734.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_383867629_1503501463.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_3233087817_1615824375.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_580421178_531212584.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_3868062587_1890933764.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Factoring/2201830969_3493041802_2243184712.mp4'
