@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/450974505_2461855681_1544039783.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_398514950_2644717509.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_2035171053_3823512494.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_398514950_145903846.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_3639260007_3287247296.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_1692320475_1261177297.mp4'
+file 'file:C:/Users/Admin/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/1080p60/partial_movie_files/AlternativeExplanation/34786186_398514950_1414069641.mp4'

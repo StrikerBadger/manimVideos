@@ -91,3 +91,23 @@ class Factoring(Scene):
             ]
         )
         self.wait()
+
+
+class AlternativeExplanation(Scene):
+    def construct(self):
+        a_times_b = MathTex(r"a \cdot b", font_size=121)
+        expanded_muliplication_1 = MathTex(r"a \cdot b = \underbrace{b + b + \cdots + b}_{a \text{ times}",
+                                           font_size=121)
+        expanded_muliplication_1.align_to(a_times_b, UP)
+        self.add(a_times_b)
+        self.play(a_times_b.animate.align_to(expanded_muliplication_1, LEFT))
+        self.wait()
+        self.play(Write(expanded_muliplication_1),
+                  FadeOut(a_times_b))
+        self.wait()
+        expanded_muliplication_2 = MathTex(r"a \cdot b = \underbrace{a + a + \cdots + a}_{b \text{ times}",
+                                           font_size=121)
+        expanded_muliplication_2.shift(2*DOWN).align_to(expanded_muliplication_1, LEFT)
+        self.play(expanded_muliplication_1.animate.shift(2.5*UP))
+        self.play(Write(expanded_muliplication_2))
+        self.wait()
