@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/3163782288_1702843585_2461714647.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3301972762_2860701387.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3493041802_3036079536.mp4'
