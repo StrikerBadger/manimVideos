@@ -1,4 +1,9 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/3163782288_1702843585_2461714647.mp4'
-file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3301972762_2860701387.mp4'
-file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3493041802_3036079536.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/3163782288_3493041802_2612559008.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3023753532_1639410318.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3834801441_2951905728.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3493041802_4183379064.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_2206527357_2947112437.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3493041802_2839661691.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3331365873_1012925291.mp4'
+file 'file:C:/Users/StrikerBadger/PycharmProjects/manimVideos/videos/xSquaredPlusx/media/videos/basicAnimations/480p15/partial_movie_files/Application/2201830969_3493041802_2315336007.mp4'

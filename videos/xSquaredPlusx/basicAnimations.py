@@ -115,13 +115,25 @@ class AlternativeExplanation(Scene):
 
 class Application(Scene):
     def construct(self):
-        initial_formula = MathTex(r"x \cdot x + x", font_size=121, substrings_to_isolate="x")
-        expanded_multiplication = MathTex(r"\underbrace{x + x + \cdots + x}_{x \text{ times}} + x",
+        initial_formula = MathTex(r"x \cdot x {{+}} {{x}}", font_size=121)
+        expanded_multiplication = MathTex(r"\underbrace{x + x + \cdots + x}_{x \text{ times}} {{+}} {{x}}",
                                           font_size=121)
+        initial_formula[-1].set_color(YELLOW)
+        expanded_multiplication[-1].set_color(YELLOW)
         self.add(initial_formula)
-        self.play(initial_formula.animate.shift(3.75*RIGHT))
+        self.wait()
+        self.play(initial_formula.animate.shift(3*RIGHT))
         expanded_multiplication.align_to(initial_formula, UP)
-        expanded_multiplication.shift(2*DOWN)
-        expanded_multiplication.next_to(initial_formula, LEFT, buff=-2.1)
-        self.play(Transform(initial_formula[:-2], expanded_multiplication))
+        self.play(Transform(initial_formula[0], expanded_multiplication[0]))
+        self.wait()
+        expanded_multiplication_2 = MathTex(r"\underbrace{x + x + \cdots + x + x}_{x + 1 \text{ times}}",
+                                          font_size=121)
+        expanded_multiplication_2.align_to(expanded_multiplication, UP)
+        self.add(expanded_multiplication)
+        self.remove(initial_formula)
+        self.play(Transform(expanded_multiplication, expanded_multiplication_2))
+        self.wait()
+        self.remove(expanded_multiplication)
+        final_formula = MathTex(r"(x + 1) \cdot x", font_size=121)
+        self.play(Transform(expanded_multiplication_2, final_formula))
         self.wait()
